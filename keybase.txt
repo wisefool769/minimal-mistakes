@@ -1,0 +1,89 @@
+==================================================================
+https://keybase.io/aashiq
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://aashiqdheeraj.com
+  * I am aashiq (https://keybase.io/aashiq) on keybase.
+  * I have a public key with fingerprint B7E5 A227 C240 3C70 8BDE  FF2F 9B3B E4F8 0D72 6522
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ff1f666f31fff9ad21ceb56f12573660db6f3b85ed040ed06721f2e283d23a090a",
+      "fingerprint": "b7e5a227c2403c708bdeff2f9b3be4f80d726522",
+      "host": "keybase.io",
+      "key_id": "9b3be4f80d726522",
+      "kid": "010145793916307c81b4f6cf13ea6b2c0f567791e1b6910ded7d5e5f8d283c67908b0a",
+      "uid": "ab72d664ef3b4528ccaafe9fad4da919",
+      "username": "aashiq"
+    },
+    "merkle_root": {
+      "ctime": 1561006266,
+      "hash_meta": "ea7eb32ccf391a849c0352149d684c48ffd576d136978acfa2eb43fbf46a9e29",
+      "seqno": 5606087
+    },
+    "revoke": {
+      "sig_ids": [
+        "c5b6dcd61d78e3c2b50e8ae35164f0c9c1e36cdda154bb85c3924d5abe4a2be00f"
+      ]
+    },
+    "service": {
+      "hostname": "aashiqdheeraj.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1561006294,
+  "expire_in": 157680000,
+  "prev": "2814e1fd4bb5541c15f9d216e93d325c86531281dcbe00e71f3792d8adff1a7e",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMP4AnicbVNrbBRVFN5aKbS4QEuRhyg6iK1kLffembkzswSEGpUfgFoBgwjbO/fR
+7rbd6c5uSx+pKAYRCwGkBbOIQgkIASEQbIQKAja1WIPRRCKBRNIIRKGFQigvK95p
+JEbj/JjJnfud73znO+e0+lN9GSkbJ/96y+9yJaXjeFWFb+HgYadqFdth1UqwVinh
+/R9eyng8ESoJMyWoAIiAEFBgjIUKhRAWYQhSbutYQKQbKsaA2fLONnXOgAbkCxsI
+CsSRqTKkEmABogQUEY4WcbfcDUcTktY2uE4QMijSgEoNYNqMC4GEZas214QJmIGw
+jpAMLHbiXoQUZ5M4zws78p88hPrl/Q/+vm4ANd2wVAtiFRjUhLYmMBVQ5QTbiAKh
+Y8OwIIc2tiBgnBlM57owmZRNsWFJSf26K/rpiG0ghrHGZaGajkxKCRHcEoRpjFjQ
+8oBx7kZJGffQJF4cjil1AaWMuyWlPOQ6TsKzlibCHgDqGAKAEcayPIkNlfEEkXGc
+GNxWEaVCyiamZlGg6ghqFsOmRjVTCKYbmEEVW4ZJqCCI25oqbKFhYnHkqYjzWNRR
+gjoGGJiGVODySqeEe8nj4SJpWlwJLlCobmNGGYbMMLlKka0DbhKu6hBrAlCLQq5i
+yhiBumbLzlLVQhrTifSaIJsDIJSFdV4ytzJM+8m9Lv2relbMuUsiedQpk7LKXSfh
+UKdUXhcnEuVBz5tEdbkHX8zt0N9EITscZXJOZEAld+NhJyq9ksj/2GZpAYVXlYdd
+Hgp7COmJCeTjpeGVkhKZUONQMKld1zVIoS4sObWYWypTkU5NrKtQghj1auEGFKph
+IWYSJkdd9uAfH5EkTZAiySndi5JEhVyduuPH3njQl5LhSxvwgLdAvoz0YffXKjZ5
+aF/28wfmLe0aoW5qLBi7/r3VJ6rb1HU0rfUgi34S+6gv9cb6pkhTz4qC8XPHq2Dz
+zOTgGU8NSPn4jws76+bGz9/ruPJVYNio2Seyh07KvNnUdUhUz999z5f2jm9f5p6K
+RfXlQ1e1+R87untV24Dasuwt74vFtS057Y1Vry+oHv3cjupkQ9eM3KcbN78wdtqL
+GUMW/Rnb5i+bkdmc3O5ueTvlbndHkftSTxZYAi/DXWP4N8klCzsfveiiRPTbgyVf
+jF3V4LuZcnFM7OTFc5+u0LrH9J7M+W5UtCXUEvd/GMkM5HToGdv2zz/BQhOv7kld
+vrcnf91rXQObc1fHzjwyctzELy/fOlwYuz2nJnK3dmn6W4eXlgaCB1ZXzPpgw6Fr
+N1pKZ17Kf7Py9gjK353wMFj2kD180qA8p3dzQXtj+oGO0lMrry+/QEbPc3Onx6oa
+FqAp5pNrclvmNH//2Z7Thzcei3b7hz8+UjT3LZv1ezK1dVr087bWnGhfvXLj2v59
+XYXj9F8Ka5qypmy92nBnutu+q2nm3K45W6uWXSrcO/DsSmetBHxtTNtnHVnbc86e
+P+HlcZ1D/DU/JaNNR84W3Fz3296dU7M6+354NeA88Uxkw5rzr/QeOvNzpz89P22H
+dfT6j/q89cFBt2ednH16N53qdmdsv3sl1DYqv2hbdmRR8868O8+2Nzpasr5Oa+8t
+2ZQFayJ/AbPO/Js=
+=Ipyv
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/aashiq
+
+==================================================================
+
